@@ -1,0 +1,6 @@
+What is the shortest month?:February
+How many months there are in a year?:12
+How many signs of the zodiac are there?:12
+How many days in a year?:365
+How many days in a week?:7
+How many maximum days in a month?:31
